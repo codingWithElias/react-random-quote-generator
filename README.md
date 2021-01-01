@@ -6,7 +6,7 @@ Build Real Web App with React.
 
 ## Full Tutorial
 
-[On Youtube](https://github.com/codingWithElias)
+[On Youtube](https://youtu.be/LzYTqzi9rQk)
 
 ## Authors
 
